@@ -1,5 +1,5 @@
-function hello(a,b){
-    return a + b
+function hello(a,b,c){
+    return a + b + c
 }
 
-console.log(hello(10,20))
+console.log(hello(10,20,30))
